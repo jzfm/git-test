@@ -9,5 +9,5 @@ Ejercicios:
     -link: https://github.com/jzfm/MySQL_Query_Usairport
 
 -Rockets!:
-    -Archivo: Main.java, Rockets.java, Winner.java
+    -Archivo: Main.java, Rockets.java, Controlador.java, Propeller.java
     -link: https://github.com/jzfm/Rockets
