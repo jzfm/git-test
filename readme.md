@@ -17,3 +17,6 @@ Ejercicios:
 
 -FlowerShop:
     -link: https://github.com/jzfm/Flowershop
+
+-BotigaDeCuadres:
+    -link: https://github.com/jzfm/BotigaDeCuadros
