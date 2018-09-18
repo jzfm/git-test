@@ -20,3 +20,6 @@ Ejercicios:
 
 -BotigaDeCuadres:
     -link: https://github.com/jzfm/BotigaDeCuadros
+
+-JocDeDaus:
+    -link: https://github.com/jzfm/JocDeDaus
