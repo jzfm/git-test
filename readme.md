@@ -23,3 +23,6 @@ Ejercicios:
 
 -JocDeDaus:
     -link: https://github.com/jzfm/JocDeDaus
+
+-Ticder:
+    -link: https://github.com/jzfm/Ticder
